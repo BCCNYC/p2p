@@ -1,2 +1,2 @@
 # p2p
-A p2p engine for games 
+A p2p engine for blockchain games 
